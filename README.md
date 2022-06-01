@@ -14,6 +14,15 @@ Aplikasi ini berguna untuk mengecek Ongkos Kirim dari Kurir Indonesia Seperti JN
 - System Cek Koneksi Internet
 - Cek Ongkir kurir JNE, TIKI & POS\
 
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/aafrzl/Cek-Ongkir/master/Screenshot_1.png)
+
+
+## Demo
+
+Link demo aplikasi
+https://drive.google.com/file/d/12ToEsSWaD8F7HvY9fA4-y0Tva-uHXU8B/view?usp=sharing
 
 ## Spesifikasi
 
